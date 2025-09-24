@@ -57,15 +57,15 @@
 ##  Структура исходного кода
 
 Исходный код хранится в файлах в корне репозитория:
-ImageInfo.pro
-appstyle.cpp
-appstyle.h
-imagemodel.cpp
-imagemodel.h
-main.cpp
-mainwindow.cpp
-mainwindow.h
-mainwindow.ui
+- ImageInfo.pro
+- appstyle.cpp
+- appstyle.h
+- imagemodel.cpp
+- imagemodel.h
+- main.cpp
+- mainwindow.cpp
+- mainwindow.h
+- mainwindow.ui
 
 
 ---
