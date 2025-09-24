@@ -1,0 +1,25 @@
+# Build folders
+build/
+debug/
+release/
+*.qmake.stash
+*.qmake.cache
+
+# Qt Creator project files
+*.pro.user
+*.pro.user.*
+*.autosave
+
+# Compiled binaries
+*.exe
+*.dll
+*.o
+*.obj
+*.a
+*.so
+*.lib
+
+# Backup files
+*.bak
+*.tmp
+*.log
